@@ -35,7 +35,7 @@ public class WordCount {
  } 
         
  public static class Reduce extends Reducer<Text, IntWritable, Text, IntWritable> {
-    private TreeMap<Integer, String> repToRecordMap = new TreeMap<Integer,String>();
+    private TreeMap<Integer, ArrayList<String>> repToRecordMap = new TreeMap<Integer,ArrayList<String>>();
     private Text word = new Text();
     public void reduce(Text key, Iterable<IntWritable> values, Context context) 
       throws IOException, InterruptedException {
@@ -45,9 +45,18 @@ public class WordCount {
         }
         // context.write(key, new IntWritable(sum));
         String treeKey = key.toString();
-        // if (repToRecordMap.containsKey(treeKey))
+
+        ArrayList<String> newStringList = new ArrayList<String>();
+        if (!repToRecordMap.containsKey(sum)) {
         //     sum = sum + repToRecordMap.get(treeKey);
-        repToRecordMap.put(sum , treeKey);
+            newStringList.add(treeKey);
+            }
+        else {
+            newStringList = repToRecordMap.get(sum);
+            newStringList.add(treeKey);
+        }
+        repToRecordMap.put(sum , newStringList);
+
         
     }
 
@@ -56,10 +65,14 @@ public class WordCount {
         int tmpKey;
         while (limit>0 && repToRecordMap.size()>0) {
             tmpKey = repToRecordMap.lastKey();
-            word.set(repToRecordMap.get(tmpKey));
-            context.write(word, new IntWritable(tmpKey));
+            ArrayList<String> values = repToRecordMap.get(tmpKey);
+            for (int i= 0; i< values.size(); i++) {
+                word.set(values.get(i));
+                context.write(word, new IntWritable(tmpKey));
+                limit--;
+            }
             repToRecordMap.remove(tmpKey);
-            limit--;
+            
         }
     }
  }
