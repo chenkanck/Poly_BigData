@@ -1,0 +1,389 @@
+0,Auburndale	2466
+0,Battery Park	349635
+0,Carnegie Hill	509840
+0,Carroll Gardens	76398
+0,Central Park	582649
+0,Chinatown	125141
+0,Corona	357
+0,Country Club	2066
+0,Downtown	96381
+0,Dyker Heights	5832
+0,East Brooklyn	5386
+0,Fort Green	245198
+0,Gramercy	3011559
+0,Greenwich Village	1627538
+0,Jackson Heights	72127
+0,Midtown	6474167
+0,Morningside Heights	284160
+0,Park Slope	154966
+0,Queens Village	1337
+0,Queensboro Hill	4434
+0,Williams Bridge	2996
+0,Williamsburg	303175
+0,Woodhaven-Richmond Hill	7727
+1,Battery Park	384007
+1,Bay Ridge	31968
+1,Central Park	603172
+1,City Island	305
+1,Clearview	1615
+1,Downtown	106044
+1,East Harlem	239081
+1,Forest Hills	51270
+1,Gramercy	3175743
+1,Gravesend-Sheepshead Bay	17856
+1,Laurelton	897
+1,Midtown	6844157
+1,Morris Heights	6573
+1,Soho	973866
+1,The Rockaways	1406
+1,Williamsburg	336223
+1,Woodhaven-Richmond Hill	8255
+2,Astoria-Long Island City	309839
+2,Auburndale	2317
+2,Battery Park	357753
+2,Chinatown	127401
+2,Downtown	95086
+2,Dyker Heights	5483
+2,Forest Hills	48091
+2,Gramercy	2841438
+2,Hunts Point	2761
+2,Midtown	6324387
+2,Morris Park	5177
+2,Murray Hill	1360703
+2,North Sutton Area	301789
+2,South Bronx	20745
+2,Spuyten Duyvil	7204
+2,Sunny Side	185329
+2,Upper East Side	4527342
+2,Utopia	11802
+2,Williamsburg	304753
+2,Woodhaven-Richmond Hill	7710
+3,Bedford-Stuyvesant	138393
+3,Bensonhurst	8453
+3,Brownsville	5041
+3,Bushwick	82651
+3,Carroll Gardens	82713
+3,Cobble Hill	36092
+3,Downtown	99482
+3,Forest Hills	47837
+3,Gramercy	2983129
+3,Greenwich Village	1659254
+3,Harlem	379194
+3,Jackson Heights	76328
+3,Laurelton	916
+3,Little Italy	280333
+3,Middle Village	10717
+3,Midtown	6450915
+3,Mott Haven	27370
+3,Queensboro Hill	4448
+3,Springfield Gardens	2306
+3,The Rockaways	1428
+3,Utopia	12279
+3,Williams Bridge	2743
+3,Williamsburg	352217
+3,Woodhaven-Richmond Hill	7874
+0,Astoria-Long Island City	320338
+0,Bay Ridge	29377
+0,Bedford Park	8233
+0,Bensonhurst	8178
+0,Clearview	1658
+0,Clinton	1279799
+0,Cobble Hill	36689
+0,East Village	1288582
+0,Financial District	809709
+0,Flushing	13113
+0,Fordham	6348
+0,Garment District	2099970
+0,Glendale	4074
+0,Harlem	368282
+0,Laurelton	922
+0,Mott Haven	27997
+0,Nkew Gardens	17954
+0,Springfield Gardens	2055
+0,Steinway	100
+0,Tribeca	653654
+0,University Heights	5883
+0,Utopia	11529
+0,West Village	941523
+1,Auburndale	2696
+1,Bedford Park	8680
+1,Boerum Hill	66305
+1,Brownsville	5643
+1,Carnegie Hill	527375
+1,Clinton	1367614
+1,Dyker Heights	6228
+1,East Brooklyn	5927
+1,Financial District	905690
+1,Flushing	16397
+1,Fordham	7080
+1,Garment District	2202689
+1,Glendale	4333
+1,Hamilton Heights	147371
+1,High Bridge	19818
+1,Inwood	30293
+1,Nkew Gardens	20179
+1,Saintalbans	1534
+1,Steinway	153
+1,Sunny Side	201321
+1,Sunset Park	20133
+1,Tribeca	702960
+1,University Heights	6403
+1,Upper East Side	5434371
+1,West Village	1044986
+1,Woodlawn-Nordwood	3698
+2,Clinton	1330519
+2,Flushing	16592
+2,Fordham	5979
+2,Glendale	4071
+2,Hamilton Heights	128255
+2,Inwood	26576
+2,Jackson Heights	73712
+2,Lower East Side	801557
+2,Morningside Heights	245732
+2,Mott Haven	26305
+2,Nkew Gardens	17684
+2,Queens Village	1324
+2,Queensboro Hill	4263
+2,Soho	882944
+2,Steinway	109
+2,The Rockaways	1341
+2,Throggs Neck	2860
+2,Tribeca	606175
+2,University Heights	5290
+2,Wakefield-Williamsbridge	3363
+2,West Village	960371
+2,Williams Bridge	2702
+3,Baychester	938
+3,Borough Park	22706
+3,Carnegie Hill	525419
+3,City Island	248
+3,Clinton	1299227
+3,Dyker Heights	6119
+3,East Harlem	224553
+3,Flushing	17751
+3,Glendale	4406
+3,Mapleton-Flatlands	22150
+3,Morris Heights	5628
+3,Nkew Gardens	18291
+3,Parkchester	7822
+3,Riverdale	12059
+3,South Bronx	21194
+3,Steinway	51
+3,Throggs Neck	2872
+3,Tribeca	670506
+3,Union Port	3533
+3,University Heights	5329
+3,West Village	1021124
+0,Bedford-Stuyvesant	120961
+0,Bushwick	61847
+0,Chelsea	2498079
+0,City Island	242
+0,Douglastown-Little Neck	2984
+0,East Harlem	216895
+0,Forest Hills	48746
+0,Little Italy	263170
+0,Morris Heights	7555
+0,Sunny Side	196922
+0,Upper East Side	5249025
+0,Wakefield-Williamsbridge	3377
+0,Woodlawn-Nordwood	3409
+0,Woodside	57066
+1,Bedford-Stuyvesant	129168
+1,Bushwick	66979
+1,Chelsea	2704585
+1,Corona	359
+1,Douglastown-Little Neck	3251
+1,Hunts Point	3374
+1,Little Italy	285628
+1,Lower East Side	890580
+1,Morris Park	5701
+1,Mott Haven	30738
+1,Murray Hill	1488632
+1,Parkchester	9427
+1,South Bronx	24142
+1,Spuyten Duyvil	8232
+1,Woodside	57507
+2,Baychester	1005
+2,Bedford-Stuyvesant	123166
+2,Bensonhurst	7994
+2,Bushwick	67121
+2,Carnegie Hill	390672
+2,Chelsea	2439895
+2,Cobble Hill	32025
+2,Corona	265
+2,Douglastown-Little Neck	3034
+2,East Brooklyn	5502
+2,Gravesend-Sheepshead Bay	16072
+2,Little Italy	266667
+2,Middle Village	10134
+2,Riverdale	10564
+2,Springfield Gardens	2329
+2,Union Port	3458
+2,Upper West Side	2866401
+2,Woodside	53302
+2,Yorkville	349572
+3,Astoria-Long Island City	310503
+3,Boerum Hill	63749
+3,Chelsea	2590132
+3,Douglastown-Little Neck	3052
+3,Fort Green	267736
+3,High Bridge	16418
+3,Park Slope	165777
+3,Queens Village	1274
+3,Saintalbans	1470
+3,Soho	937224
+3,Soundview	6562
+3,Sunset Park	20123
+3,Upper East Side	5180131
+3,Woodlawn-Nordwood	3538
+3,Woodside	54552
+0,Boerum Hill	61497
+0,Borough Park	23376
+0,Brownsville	5112
+0,Gravesend-Sheepshead Bay	17065
+0,High Bridge	15305
+0,Jamaica	9984
+0,Kings Bridge	7567
+0,Lower East Side	828481
+0,Mapleton-Flatlands	22836
+0,Middle Village	10454
+0,Saintalbans	1376
+0,Soundview	7040
+0,Sunset Park	18239
+0,Throggs Neck	2960
+0,Tremont	7558
+0,Washington Heights	198166
+1,Astoria-Long Island City	337189
+1,Baychester	1093
+1,Borough Park	24449
+1,Country Club	2208
+1,Greenwood	24978
+1,Harlem	401037
+1,Jamaica	10942
+1,Kings Bridge	8687
+1,Mapleton-Flatlands	24045
+1,Morningside Heights	341988
+1,North Sutton Area	343591
+1,Queens Village	1380
+1,Ridgewood	17767
+1,Riverdale	12533
+1,Throggs Neck	3119
+1,Tremont	8247
+1,Union Port	3921
+1,Upper West Side	3431586
+1,Utopia	12638
+1,Washington Heights	221030
+1,Yorkville	398159
+2,Borough Park	23296
+2,Carroll Gardens	72124
+2,Central Park	488741
+2,City Island	280
+2,Country Club	1895
+2,East Harlem	216266
+2,Fort Green	235174
+2,Garment District	2137410
+2,Greenwich Village	1509451
+2,Harlem	351208
+2,Jamaica	10086
+2,Kings Bridge	7616
+2,Mapleton-Flatlands	21297
+2,Morris Heights	5240
+2,Park Slope	148716
+2,Parkchester	7877
+2,Soundview	6760
+2,Tremont	7064
+2,Washington Heights	191430
+2,Woodlawn-Nordwood	3174
+3,Battery Park	360789
+3,Bay Ridge	30836
+3,Central Park	547608
+3,Clearview	1679
+3,Country Club	1847
+3,East Brooklyn	5246
+3,Fordham	6664
+3,Garment District	2057799
+3,Greenwood	24749
+3,Hamilton Heights	136255
+3,Hunts Point	2695
+3,Inwood	28091
+3,Jamaica	10532
+3,Kings Bridge	7826
+3,Lower East Side	845511
+3,Morris Park	5216
+3,Murray Hill	1349126
+3,Ridgewood	21725
+3,Spuyten Duyvil	7708
+3,Tremont	7096
+3,Wakefield-Williamsbridge	3148
+3,Washington Heights	209419
+3,Yorkville	381091
+0,Baychester	1021
+0,Canarsie	5148
+0,Flatbush	213
+0,Greenwood	22172
+0,Hamilton Heights	131027
+0,Hunts Point	3155
+0,Inwood	26056
+0,Maspeth	15669
+0,Morris Park	5183
+0,Murray Hill	1383149
+0,North Sutton Area	336770
+0,Parkchester	10163
+0,Ridgewood	16740
+0,Riverdale	11375
+0,Soho	892364
+0,South Bronx	22259
+0,Spuyten Duyvil	7768
+0,The Rockaways	1282
+0,Union Port	3604
+0,Upper West Side	3301690
+0,Yorkville	372056
+1,Bensonhurst	8345
+1,Canarsie	5802
+1,Carroll Gardens	80649
+1,Chinatown	129175
+1,Cobble Hill	38153
+1,East Village	1356065
+1,Flatbush	267
+1,Fort Green	267015
+1,Greenwich Village	1762437
+1,Jackson Heights	77585
+1,Maspeth	16130
+1,Middle Village	10903
+1,Park Slope	167208
+1,Queensboro Hill	4480
+1,Soundview	7506
+1,Springfield Gardens	2122
+1,Wakefield-Williamsbridge	3790
+1,Williams Bridge	3205
+2,Bay Ridge	29276
+2,Bedford Park	7751
+2,Boerum Hill	57006
+2,Brownsville	4952
+2,Canarsie	5166
+2,Clearview	1541
+2,East Village	1212220
+2,Financial District	923834
+2,Flatbush	243
+2,Greenwood	23557
+2,High Bridge	20460
+2,Laurelton	888
+2,Maspeth	15076
+2,Ridgewood	17456
+2,Saintalbans	1373
+2,Sunset Park	19449
+3,Auburndale	2355
+3,Bedford Park	8419
+3,Canarsie	5079
+3,Chinatown	124200
+3,Corona	310
+3,East Village	1299122
+3,Eastchester	2
+3,Financial District	938604
+3,Flatbush	266
+3,Gravesend-Sheepshead Bay	16938
+3,Maspeth	16373
+3,Morningside Heights	311559
+3,North Sutton Area	330809
+3,Sunny Side	202913
+3,Upper West Side	3317759

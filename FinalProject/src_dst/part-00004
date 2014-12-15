@@ -1,0 +1,1581 @@
+Astoria-Long Island City->Battery Park	1234
+Astoria-Long Island City->Baychester	24
+Astoria-Long Island City->Bedford-Stuyvesant	2580
+Astoria-Long Island City->Carroll Gardens	737
+Astoria-Long Island City->Flushing	3052
+Astoria-Long Island City->Fordham	297
+Astoria-Long Island City->Forest Hills	5915
+Astoria-Long Island City->Garment District	14884
+Astoria-Long Island City->Greenwich Village	8122
+Astoria-Long Island City->Hamilton Heights	2331
+Astoria-Long Island City->Inwood	538
+Astoria-Long Island City->Jackson Heights	28406
+Astoria-Long Island City->Jamaica	1526
+Astoria-Long Island City->Queensboro Hill	970
+Astoria-Long Island City->Springfield Gardens	149
+Astoria-Long Island City->Spuyten Duyvil	50
+Astoria-Long Island City->Steinway	18
+Astoria-Long Island City->Tribeca	2402
+Astoria-Long Island City->Union Port	172
+Astoria-Long Island City->Wakefield-Williamsbridge	122
+Astoria-Long Island City->Williams Bridge	164
+Astoria-Long Island City->Williamsburg	7833
+Auburndale->Downtown	1
+Auburndale->East Brooklyn	1
+Auburndale->Jamaica	24
+Auburndale->Laurelton	4
+Auburndale->Little Italy	2
+Auburndale->Mapleton-Flatlands	1
+Auburndale->Springfield Gardens	2
+Auburndale->Tribeca	2
+Auburndale->Upper West Side	1
+Battery Park->Bay Ridge	1226
+Battery Park->Boerum Hill	1682
+Battery Park->Brownsville	138
+Battery Park->Carroll Gardens	2656
+Battery Park->Clearview	39
+Battery Park->Corona	9
+Battery Park->Greenwood	532
+Battery Park->High Bridge	192
+Battery Park->Jackson Heights	755
+Battery Park->Maspeth	158
+Battery Park->Mott Haven	153
+Battery Park->Nkew Gardens	332
+Battery Park->Queensboro Hill	31
+Battery Park->Ridgewood	213
+Battery Park->Saintalbans	23
+Battery Park->Sunset Park	562
+Battery Park->Throggs Neck	64
+Battery Park->West Village	77573
+Battery Park->Williams Bridge	59
+Battery Park->Woodside	452
+Battery Park->Yorkville	2647
+Bay Ridge->Bay Ridge	2750
+Bay Ridge->Canarsie	51
+Bay Ridge->Gravesend-Sheepshead Bay	347
+Bay Ridge->Middle Village	5
+Bay Ridge->Midtown	149
+Bay Ridge->Springfield Gardens	6
+Bay Ridge->Upper West Side	40
+Bay Ridge->Washington Heights	11
+Bay Ridge->Woodside	14
+Baychester->Baychester	52
+Baychester->Bedford Park	7
+Baychester->Harlem	4
+Baychester->Hunts Point	1
+Baychester->Morris Heights	2
+Baychester->Morris Park	10
+Baychester->Parkchester	4
+Baychester->South Bronx	5
+Baychester->Woodlawn-Nordwood	2
+Bedford Park->Baychester	9
+Bedford Park->Central Park	6
+Bedford Park->Chelsea	24
+Bedford Park->Chinatown	1
+Bedford Park->Country Club	24
+Bedford Park->Flushing	1
+Bedford Park->Harlem	35
+Bedford Park->Kings Bridge	97
+Bedford Park->Morningside Heights	13
+Bedford Park->Soho	5
+Bedford Park->Sunset Park	1
+Bedford Park->Union Port	8
+Bedford Park->Upper West Side	42
+Bedford Park->Utopia	2
+Bedford Park->Wakefield-Williamsbridge	90
+Bedford Park->Washington Heights	57
+Bedford-Stuyvesant->Battery Park	87
+Bedford-Stuyvesant->Bay Ridge	185
+Bedford-Stuyvesant->Bedford-Stuyvesant	20211
+Bedford-Stuyvesant->Carnegie Hill	23
+Bedford-Stuyvesant->Central Park	85
+Bedford-Stuyvesant->Clearview	2
+Bedford-Stuyvesant->Dyker Heights	26
+Bedford-Stuyvesant->East Harlem	98
+Bedford-Stuyvesant->Forest Hills	97
+Bedford-Stuyvesant->Fort Green	9836
+Bedford-Stuyvesant->Garment District	787
+Bedford-Stuyvesant->Hamilton Heights	114
+Bedford-Stuyvesant->Harlem	351
+Bedford-Stuyvesant->Laurelton	29
+Bedford-Stuyvesant->Maspeth	116
+Bedford-Stuyvesant->Morris Heights	8
+Bedford-Stuyvesant->Park Slope	1979
+Bedford-Stuyvesant->Springfield Gardens	21
+Bedford-Stuyvesant->Utopia	50
+Bedford-Stuyvesant->Williamsburg	9133
+Bedford-Stuyvesant->Woodhaven-Richmond Hill	124
+Bensonhurst->Astoria-Long Island City	8
+Bensonhurst->Bay Ridge	144
+Bensonhurst->Boerum Hill	13
+Bensonhurst->Carroll Gardens	23
+Bensonhurst->East Village	18
+Bensonhurst->Gravesend-Sheepshead Bay	256
+Bensonhurst->High Bridge	1
+Bensonhurst->Jackson Heights	2
+Bensonhurst->Laurelton	1
+Bensonhurst->Maspeth	1
+Bensonhurst->Mott Haven	1
+Bensonhurst->Nkew Gardens	1
+Bensonhurst->Sunset Park	56
+Bensonhurst->West Village	11
+Boerum Hill->Astoria-Long Island City	1375
+Boerum Hill->Battery Park	1097
+Boerum Hill->Bedford-Stuyvesant	12468
+Boerum Hill->Carnegie Hill	213
+Boerum Hill->City Island	1
+Boerum Hill->Clinton	1557
+Boerum Hill->Dyker Heights	380
+Boerum Hill->East Brooklyn	449
+Boerum Hill->East Harlem	233
+Boerum Hill->Forest Hills	286
+Boerum Hill->Harlem	741
+Boerum Hill->Hunts Point	10
+Boerum Hill->Morris Park	30
+Boerum Hill->Parkchester	22
+Boerum Hill->Soho	2812
+Boerum Hill->Soundview	21
+Boerum Hill->South Bronx	54
+Boerum Hill->Spuyten Duyvil	7
+Boerum Hill->Sunny Side	1275
+Boerum Hill->Tribeca	3375
+Boerum Hill->Utopia	83
+Boerum Hill->Williamsburg	13932
+Boerum Hill->Woodhaven-Richmond Hill	124
+Boerum Hill->Woodlawn-Nordwood	5
+Borough Park->Carnegie Hill	23
+Borough Park->Carroll Gardens	531
+Borough Park->Chelsea	436
+Borough Park->Downtown	336
+Borough Park->Dyker Heights	110
+Borough Park->Gramercy	371
+Borough Park->Harlem	93
+Borough Park->Jackson Heights	34
+Borough Park->Mapleton-Flatlands	785
+Borough Park->Morris Park	3
+Borough Park->Murray Hill	272
+Borough Park->Queens Village	2
+Borough Park->Queensboro Hill	3
+Borough Park->Washington Heights	24
+Brownsville->Borough Park	10
+Brownsville->Carnegie Hill	2
+Brownsville->Central Park	4
+Brownsville->Country Club	1
+Brownsville->East Brooklyn	258
+Brownsville->East Harlem	2
+Brownsville->Financial District	17
+Brownsville->Flushing	3
+Brownsville->Garment District	11
+Brownsville->Greenwood	13
+Brownsville->Hamilton Heights	3
+Brownsville->Midtown	41
+Brownsville->Ridgewood	8
+Brownsville->Upper West Side	10
+Brownsville->Yorkville	5
+Bushwick->Auburndale	2
+Bushwick->Bedford-Stuyvesant	5686
+Bushwick->Boerum Hill	347
+Bushwick->Borough Park	115
+Bushwick->Brownsville	181
+Bushwick->Central Park	48
+Bushwick->Chinatown	147
+Bushwick->Clinton	216
+Bushwick->Fordham	4
+Bushwick->Garment District	289
+Bushwick->Hamilton Heights	58
+Bushwick->High Bridge	11
+Bushwick->Inwood	11
+Bushwick->Kings Bridge	6
+Bushwick->Lower East Side	1545
+Bushwick->North Sutton Area	31
+Bushwick->Saintalbans	6
+Bushwick->Spuyten Duyvil	1
+Bushwick->Sunny Side	461
+Bushwick->Sunset Park	151
+Bushwick->Tribeca	175
+Bushwick->Woodside	145
+Canarsie->Borough Park	12
+Canarsie->Canarsie	1709
+Canarsie->Carnegie Hill	3
+Canarsie->Central Park	2
+Canarsie->Dyker Heights	2
+Canarsie->East Brooklyn	99
+Canarsie->East Harlem	2
+Canarsie->Fordham	1
+Canarsie->Gravesend-Sheepshead Bay	79
+Canarsie->Hamilton Heights	1
+Canarsie->Jamaica	5
+Canarsie->Morris Heights	1
+Canarsie->Mott Haven	1
+Canarsie->Tribeca	12
+Canarsie->Upper East Side	20
+Carnegie Hill->Astoria-Long Island City	3281
+Carnegie Hill->Bay Ridge	215
+Carnegie Hill->Bedford-Stuyvesant	362
+Carnegie Hill->City Island	6
+Carnegie Hill->Corona	9
+Carnegie Hill->Downtown	785
+Carnegie Hill->Fordham	130
+Carnegie Hill->Forest Hills	616
+Carnegie Hill->Gramercy	53333
+Carnegie Hill->Hunts Point	45
+Carnegie Hill->Jamaica	144
+Carnegie Hill->Laurelton	8
+Carnegie Hill->Morris Park	113
+Carnegie Hill->North Sutton Area	16740
+Carnegie Hill->Parkchester	156
+Carnegie Hill->Queens Village	24
+Carnegie Hill->South Bronx	588
+Carnegie Hill->Springfield Gardens	31
+Carnegie Hill->Tremont	154
+Carnegie Hill->Union Port	98
+Carnegie Hill->Upper East Side	669966
+Carnegie Hill->Williamsburg	2137
+Carnegie Hill->Woodhaven-Richmond Hill	135
+Carroll Gardens->Bedford-Stuyvesant	7806
+Carroll Gardens->Boerum Hill	14950
+Carroll Gardens->Bushwick	2896
+Carroll Gardens->Clinton	3098
+Carroll Gardens->Douglastown-Little Neck	12
+Carroll Gardens->Fordham	11
+Carroll Gardens->Garment District	5445
+Carroll Gardens->Harlem	469
+Carroll Gardens->High Bridge	21
+Carroll Gardens->Jackson Heights	436
+Carroll Gardens->Little Italy	3031
+Carroll Gardens->Lower East Side	8307
+Carroll Gardens->Mott Haven	71
+Carroll Gardens->Queensboro Hill	19
+Carroll Gardens->Riverdale	10
+Carroll Gardens->Spuyten Duyvil	3
+Carroll Gardens->Sunset Park	3647
+Carroll Gardens->Tribeca	6423
+Carroll Gardens->Utopia	43
+Carroll Gardens->Williams Bridge	2
+Carroll Gardens->Woodside	359
+Central Park->Baychester	21
+Central Park->Bedford-Stuyvesant	816
+Central Park->Borough Park	251
+Central Park->Carnegie Hill	75985
+Central Park->Carroll Gardens	657
+Central Park->Chelsea	56924
+Central Park->Dyker Heights	60
+Central Park->East Brooklyn	43
+Central Park->East Harlem	20007
+Central Park->Gravesend-Sheepshead Bay	187
+Central Park->Jackson Heights	1782
+Central Park->Nkew Gardens	325
+Central Park->Queens Village	14
+Central Park->Queensboro Hill	105
+Central Park->Soundview	150
+Central Park->Throggs Neck	53
+Central Park->Union Port	91
+Central Park->West Village	17351
+Central Park->Williams Bridge	62
+Central Park->Woodhaven-Richmond Hill	143
+Central Park->Woodside	1031
+Chelsea->Baychester	231
+Chelsea->Bedford Park	1645
+Chelsea->Bushwick	13278
+Chelsea->Carnegie Hill	45350
+Chelsea->Carroll Gardens	19674
+Chelsea->Chinatown	30798
+Chelsea->Clinton	640284
+Chelsea->Downtown	22186
+Chelsea->Dyker Heights	1595
+Chelsea->East Brooklyn	1284
+Chelsea->East Village	433146
+Chelsea->Fordham	1464
+Chelsea->Gramercy	1076265
+Chelsea->Jackson Heights	11462
+Chelsea->Morris Heights	1195
+Chelsea->Nkew Gardens	3157
+Chelsea->Queensboro Hill	908
+Chelsea->Springfield Gardens	491
+Chelsea->Tribeca	257124
+Chelsea->West Village	525807
+Chelsea->Williams Bridge	627
+Chelsea->Woodhaven-Richmond Hill	1392
+Chinatown->Baychester	8
+Chinatown->Bensonhurst	375
+Chinatown->Bushwick	2675
+Chinatown->Cobble Hill	1216
+Chinatown->Douglastown-Little Neck	34
+Chinatown->Dyker Heights	177
+Chinatown->Financial District	46752
+Chinatown->Maspeth	206
+Chinatown->Middle Village	157
+Chinatown->Murray Hill	17671
+Chinatown->Soundview	81
+Chinatown->University Heights	51
+Chinatown->Woodside	555
+City Island->Baychester	2
+City Island->Soundview	2
+City Island->Throggs Neck	2
+City Island->Williams Bridge	4
+Clearview->Downtown	1
+Clearview->East Village	2
+Clearview->Murray Hill	3
+Clinton->Auburndale	335
+Clinton->Bay Ridge	4074
+Clinton->Bedford-Stuyvesant	10446
+Clinton->Canarsie	758
+Clinton->Clinton	420746
+Clinton->Douglastown-Little Neck	376
+Clinton->East Brooklyn	728
+Clinton->Flatbush	14
+Clinton->Fordham	1275
+Clinton->Laurelton	94
+Clinton->Morningside Heights	29495
+Clinton->North Sutton Area	19870
+Clinton->Sunny Side	17316
+Clinton->Tribeca	78660
+Clinton->Upper East Side	305597
+Clinton->Utopia	1413
+Cobble Hill->Auburndale	3
+Cobble Hill->Borough Park	408
+Cobble Hill->Brownsville	64
+Cobble Hill->Carnegie Hill	375
+Cobble Hill->Chelsea	5059
+Cobble Hill->Chinatown	790
+Cobble Hill->East Brooklyn	63
+Cobble Hill->Flushing	45
+Cobble Hill->Glendale	5
+Cobble Hill->Jackson Heights	223
+Cobble Hill->Lower East Side	2985
+Cobble Hill->North Sutton Area	297
+Cobble Hill->Queens Village	2
+Cobble Hill->Queensboro Hill	4
+Cobble Hill->Sunny Side	432
+Cobble Hill->Utopia	10
+Cobble Hill->Williams Bridge	1
+Corona->Bay Ridge	8
+Corona->Baychester	3
+Corona->Chelsea	193
+Corona->City Island	2
+Corona->Clearview	5
+Corona->East Brooklyn	7
+Corona->East Harlem	25
+Corona->Financial District	213
+Corona->Gravesend-Sheepshead Bay	7
+Corona->Inwood	13
+Corona->Laurelton	3
+Corona->Morris Heights	1
+Corona->Parkchester	6
+Corona->South Bronx	11
+Corona->Union Port	2
+Corona->Upper East Side	538
+Corona->Woodhaven-Richmond Hill	14
+Country Club->Baychester	22
+Country Club->Borough Park	1
+Country Club->Clinton	8
+Country Club->Hunts Point	3
+Country Club->Jackson Heights	1
+Country Club->Kings Bridge	5
+Country Club->Lower East Side	2
+Country Club->Morris Heights	1
+Country Club->Morris Park	13
+Country Club->Murray Hill	2
+Country Club->Parkchester	29
+Country Club->Queensboro Hill	2
+Country Club->South Bronx	16
+Country Club->Spuyten Duyvil	1
+Country Club->Throggs Neck	21
+Country Club->Union Port	7
+Country Club->West Village	1
+Country Club->Williams Bridge	13
+Douglastown-Little Neck->Bay Ridge	1
+Douglastown-Little Neck->Brownsville	1
+Douglastown-Little Neck->Canarsie	1
+Douglastown-Little Neck->Clearview	6
+Douglastown-Little Neck->Glendale	1
+Douglastown-Little Neck->High Bridge	1
+Douglastown-Little Neck->Jackson Heights	13
+Douglastown-Little Neck->Laurelton	26
+Douglastown-Little Neck->Little Italy	2
+Douglastown-Little Neck->Lower East Side	19
+Douglastown-Little Neck->Maspeth	2
+Douglastown-Little Neck->Saintalbans	8
+Douglastown-Little Neck->Springfield Gardens	17
+Douglastown-Little Neck->Williams Bridge	1
+Douglastown-Little Neck->Woodhaven-Richmond Hill	10
+Downtown->Baychester	3
+Downtown->Boerum Hill	7699
+Downtown->Borough Park	1587
+Downtown->Brownsville	593
+Downtown->Canarsie	475
+Downtown->Carnegie Hill	673
+Downtown->Central Park	911
+Downtown->Country Club	17
+Downtown->East Brooklyn	577
+Downtown->Flatbush	45
+Downtown->Glendale	54
+Downtown->Greenwood	2266
+Downtown->Harlem	1797
+Downtown->High Bridge	133
+Downtown->Jamaica	195
+Downtown->Kings Bridge	36
+Downtown->Mapleton-Flatlands	1399
+Downtown->Middle Village	158
+Downtown->Ridgewood	494
+Downtown->Riverdale	91
+Downtown->Saintalbans	40
+Downtown->Sunset Park	2004
+Downtown->Tremont	51
+Downtown->University Heights	33
+Downtown->Utopia	258
+Downtown->Woodlawn-Nordwood	12
+Downtown->Yorkville	1184
+Dyker Heights->Astoria-Long Island City	7
+Dyker Heights->Bay Ridge	159
+Dyker Heights->Canarsie	8
+Dyker Heights->East Harlem	1
+Dyker Heights->Financial District	18
+Dyker Heights->Fort Green	12
+Dyker Heights->Gravesend-Sheepshead Bay	57
+Dyker Heights->Laurelton	1
+Dyker Heights->Park Slope	25
+Dyker Heights->Parkchester	2
+East Brooklyn->Battery Park	32
+East Brooklyn->Bushwick	99
+East Brooklyn->Carroll Gardens	13
+East Brooklyn->Central Park	9
+East Brooklyn->Chelsea	39
+East Brooklyn->East Harlem	5
+East Brooklyn->Gramercy	41
+East Brooklyn->Greenwich Village	31
+East Brooklyn->Harlem	11
+East Brooklyn->Jackson Heights	8
+East Brooklyn->Middle Village	1
+East Brooklyn->Morningside Heights	3
+East Brooklyn->Queensboro Hill	1
+East Brooklyn->Utopia	7
+East Brooklyn->Washington Heights	6
+East Brooklyn->Williamsburg	37
+East Harlem->Auburndale	17
+East Harlem->Bay Ridge	77
+East Harlem->Bedford Park	440
+East Harlem->Bedford-Stuyvesant	707
+East Harlem->Carroll Gardens	108
+East Harlem->East Village	5896
+East Harlem->Flushing	390
+East Harlem->Glendale	17
+East Harlem->Laurelton	15
+East Harlem->Maspeth	124
+East Harlem->Middle Village	73
+East Harlem->Morningside Heights	13226
+East Harlem->North Sutton Area	2800
+East Harlem->Soho	2280
+East Harlem->Sunny Side	1592
+East Village->Battery Park	41931
+East Village->Bedford-Stuyvesant	43253
+East Village->Bensonhurst	1423
+East Village->Carnegie Hill	13605
+East Village->Central Park	27479
+East Village->Downtown	22154
+East Village->Dyker Heights	1110
+East Village->Forest Hills	7159
+East Village->Garment District	287056
+East Village->Hamilton Heights	11452
+East Village->Inwood	2872
+East Village->Lower East Side	363520
+East Village->Midtown	547918
+East Village->Morris Park	836
+East Village->Mott Haven	2810
+East Village->Murray Hill	235067
+East Village->Queens Village	147
+East Village->Williamsburg	124663
+Financial District->Bay Ridge	7489
+Financial District->Bensonhurst	1992
+Financial District->Borough Park	4526
+Financial District->Carroll Gardens	12998
+Financial District->Central Park	15087
+Financial District->Cobble Hill	6784
+Financial District->Corona	17
+Financial District->Country Club	226
+Financial District->East Brooklyn	591
+Financial District->Fordham	282
+Financial District->Fort Green	31052
+Financial District->Garment District	172839
+Financial District->Hamilton Heights	3334
+Financial District->Jackson Heights	4532
+Financial District->Jamaica	1036
+Financial District->Kings Bridge	500
+Financial District->Laurelton	62
+Financial District->Mapleton-Flatlands	3768
+Financial District->Park Slope	24260
+Financial District->Queens Village	161
+Financial District->Queensboro Hill	392
+Financial District->Tremont	270
+Financial District->Wakefield-Williamsbridge	219
+Financial District->Washington Heights	7368
+Financial District->Williams Bridge	178
+Flatbush->Battery Park	4
+Flatbush->Brownsville	2
+Flatbush->Central Park	1
+Flatbush->Clinton	4
+Flatbush->East Brooklyn	1
+Flatbush->Flatbush	118
+Flatbush->Mapleton-Flatlands	12
+Flatbush->Morningside Heights	1
+Flatbush->Tribeca	5
+Flatbush->Upper East Side	4
+Flatbush->Williamsburg	11
+Flatbush->Yorkville	1
+Flushing->Bedford Park	8
+Flushing->Chelsea	443
+Flushing->Chinatown	60
+Flushing->East Village	201
+Flushing->Inwood	5
+Flushing->Lower East Side	203
+Flushing->Nkew Gardens	438
+Flushing->North Sutton Area	71
+Flushing->Queens Village	19
+Flushing->Springfield Gardens	19
+Flushing->The Rockaways	4
+Flushing->Union Port	11
+Flushing->Wakefield-Williamsbridge	1
+Flushing->West Village	180
+Fordham->Bay Ridge	1
+Fordham->Inwood	63
+Fordham->Little Italy	2
+Fordham->North Sutton Area	2
+Fordham->Park Slope	1
+Fordham->Soho	3
+Fordham->Spuyten Duyvil	3
+Fordham->Tremont	136
+Fordham->Upper East Side	50
+Fordham->Washington Heights	62
+Forest Hills->Auburndale	210
+Forest Hills->Bay Ridge	37
+Forest Hills->Brownsville	48
+Forest Hills->Carnegie Hill	55
+Forest Hills->Clearview	35
+Forest Hills->Clinton	393
+Forest Hills->Dyker Heights	5
+Forest Hills->East Brooklyn	101
+Forest Hills->Fordham	7
+Forest Hills->Greenwood	7
+Forest Hills->Laurelton	25
+Forest Hills->Little Italy	63
+Forest Hills->Ridgewood	504
+Forest Hills->Saintalbans	92
+Forest Hills->Springfield Gardens	110
+Forest Hills->Spuyten Duyvil	3
+Forest Hills->Sunny Side	2204
+Forest Hills->Sunset Park	40
+Forest Hills->Tribeca	310
+Forest Hills->Utopia	2478
+Forest Hills->Wakefield-Williamsbridge	8
+Forest Hills->Woodlawn-Nordwood	1
+Forest Hills->Yorkville	194
+Fort Green->Auburndale	31
+Fort Green->Boerum Hill	10339
+Fort Green->Borough Park	2139
+Fort Green->Carroll Gardens	11888
+Fort Green->Downtown	17976
+Fort Green->Garment District	5568
+Fort Green->Gramercy	11452
+Fort Green->Gravesend-Sheepshead Bay	687
+Fort Green->Greenwich Village	10470
+Fort Green->Hamilton Heights	448
+Fort Green->Harlem	1859
+Fort Green->High Bridge	175
+Fort Green->Jackson Heights	1218
+Fort Green->Kings Bridge	32
+Fort Green->Mapleton-Flatlands	2144
+Fort Green->Maspeth	283
+Fort Green->Middle Village	130
+Fort Green->Queensboro Hill	65
+Fort Green->Saintalbans	48
+Fort Green->Soho	6576
+Fort Green->Sunny Side	3046
+Fort Green->Sunset Park	2273
+Fort Green->The Rockaways	78
+Fort Green->Throggs Neck	13
+Fort Green->Utopia	151
+Fort Green->Washington Heights	750
+Fort Green->Williams Bridge	18
+Fort Green->Woodhaven-Richmond Hill	227
+Fort Green->Woodlawn-Nordwood	5
+Garment District->Astoria-Long Island City	56886
+Garment District->Auburndale	830
+Garment District->Borough Park	4038
+Garment District->Clinton	487595
+Garment District->Financial District	185206
+Garment District->Fordham	2109
+Garment District->Greenwich Village	314635
+Garment District->Harlem	54063
+Garment District->High Bridge	4452
+Garment District->Kings Bridge	1839
+Garment District->Morningside Heights	34583
+Garment District->Sunny Side	34917
+Garment District->Throggs Neck	750
+Garment District->Tribeca	113767
+Garment District->University Heights	1721
+Garment District->Upper West Side	450897
+Garment District->Utopia	3102
+Garment District->Woodlawn-Nordwood	885
+Glendale->Borough Park	1
+Glendale->Bushwick	62
+Glendale->Carnegie Hill	2
+Glendale->Clinton	12
+Glendale->East Harlem	2
+Glendale->Garment District	24
+Glendale->Gravesend-Sheepshead Bay	2
+Glendale->Middle Village	70
+Glendale->Parkchester	1
+Glendale->Soundview	1
+Glendale->South Bronx	2
+Glendale->Tribeca	18
+Glendale->Woodside	22
+Gramercy->Astoria-Long Island City	78693
+Gramercy->Baychester	292
+Gramercy->Bensonhurst	2801
+Gramercy->Clinton	325113
+Gramercy->Cobble Hill	10191
+Gramercy->Flushing	3682
+Gramercy->Fordham	1261
+Gramercy->Lower East Side	386976
+Gramercy->North Sutton Area	119315
+Gramercy->Soho	395995
+Gramercy->The Rockaways	369
+Gramercy->Tribeca	216292
+Gramercy->Utopia	3394
+Gravesend-Sheepshead Bay->Baychester	1
+Gravesend-Sheepshead Bay->Canarsie	164
+Gravesend-Sheepshead Bay->Clinton	55
+Gravesend-Sheepshead Bay->East Brooklyn	14
+Gravesend-Sheepshead Bay->East Harlem	11
+Gravesend-Sheepshead Bay->Financial District	66
+Gravesend-Sheepshead Bay->Forest Hills	8
+Gravesend-Sheepshead Bay->Gravesend-Sheepshead Bay	3618
+Gravesend-Sheepshead Bay->Greenwich Village	55
+Gravesend-Sheepshead Bay->Greenwood	20
+Gravesend-Sheepshead Bay->Little Italy	11
+Gravesend-Sheepshead Bay->Lower East Side	35
+Gravesend-Sheepshead Bay->Middle Village	1
+Gravesend-Sheepshead Bay->Ridgewood	3
+Gravesend-Sheepshead Bay->Tribeca	24
+Gravesend-Sheepshead Bay->Union Port	1
+Gravesend-Sheepshead Bay->Yorkville	8
+Greenwich Village->Astoria-Long Island City	42183
+Greenwich Village->Auburndale	331
+Greenwich Village->Battery Park	104224
+Greenwich Village->Bushwick	19807
+Greenwich Village->Central Park	43225
+Greenwich Village->City Island	56
+Greenwich Village->Country Club	291
+Greenwich Village->Fordham	871
+Greenwich Village->Hunts Point	338
+Greenwich Village->Inwood	3524
+Greenwich Village->Jamaica	1349
+Greenwich Village->Morris Park	829
+Greenwich Village->Parkchester	1293
+Greenwich Village->Soundview	950
+Greenwich Village->South Bronx	2582
+Greenwich Village->Spuyten Duyvil	938
+Greenwich Village->Sunny Side	25424
+Greenwich Village->Tribeca	254143
+Greenwich Village->Upper West Side	245914
+Greenwich Village->Williamsburg	86770
+Greenwich Village->Woodhaven-Richmond Hill	1298
+Greenwich Village->Woodside	5992
+Greenwood->Chelsea	460
+Greenwood->Chinatown	87
+Greenwood->Douglastown-Little Neck	1
+Greenwood->Financial District	374
+Greenwood->Flushing	7
+Greenwood->Harlem	61
+Greenwood->Little Italy	87
+Greenwood->Lower East Side	400
+Greenwood->Mott Haven	8
+Greenwood->North Sutton Area	26
+Greenwood->Utopia	9
+Hamilton Heights->Baychester	35
+Hamilton Heights->Bushwick	130
+Hamilton Heights->City Island	2
+Hamilton Heights->Clearview	18
+Hamilton Heights->Clinton	10265
+Hamilton Heights->East Brooklyn	35
+Hamilton Heights->Fordham	289
+Hamilton Heights->Gravesend-Sheepshead Bay	40
+Hamilton Heights->Greenwood	37
+Hamilton Heights->Hunts Point	111
+Hamilton Heights->Jamaica	79
+Hamilton Heights->Morris Park	150
+Hamilton Heights->Parkchester	242
+Hamilton Heights->Ridgewood	51
+Hamilton Heights->South Bronx	1228
+Hamilton Heights->Springfield Gardens	11
+Hamilton Heights->Tribeca	1438
+Hamilton Heights->Upper West Side	48215
+Hamilton Heights->Woodside	272
+Hamilton Heights->Yorkville	5386
+Harlem->Boerum Hill	318
+Harlem->Canarsie	66
+Harlem->Chelsea	16206
+Harlem->Financial District	3252
+Harlem->Flatbush	2
+Harlem->Greenwood	119
+Harlem->High Bridge	2820
+Harlem->Jackson Heights	1402
+Harlem->Little Italy	897
+Harlem->Lower East Side	5392
+Harlem->Middle Village	44
+Harlem->North Sutton Area	2093
+Harlem->Queensboro Hill	53
+Harlem->Ridgewood	72
+Harlem->Riverdale	402
+Harlem->Saintalbans	67
+Harlem->Sunset Park	88
+Harlem->Union Port	285
+Harlem->University Heights	645
+Harlem->Wakefield-Williamsbridge	370
+Harlem->Williams Bridge	258
+Harlem->Yorkville	31765
+High Bridge->Bay Ridge	4
+High Bridge->Canarsie	1
+High Bridge->Carroll Gardens	4
+High Bridge->Forest Hills	9
+High Bridge->Inwood	65
+High Bridge->Jackson Heights	40
+High Bridge->Laurelton	1
+High Bridge->Little Italy	10
+High Bridge->Maspeth	13
+High Bridge->North Sutton Area	39
+High Bridge->Queensboro Hill	2
+High Bridge->Williams Bridge	24
+Hunts Point->Bedford-Stuyvesant	4
+Hunts Point->Bushwick	4
+Hunts Point->Central Park	16
+Hunts Point->Country Club	4
+Hunts Point->Douglastown-Little Neck	2
+Hunts Point->East Brooklyn	1
+Hunts Point->Fordham	6
+Hunts Point->Fort Green	1
+Hunts Point->Hamilton Heights	12
+Hunts Point->Harlem	41
+Hunts Point->Jamaica	1
+Hunts Point->Kings Bridge	5
+Hunts Point->Morningside Heights	9
+Hunts Point->Morris Heights	7
+Hunts Point->North Sutton Area	3
+Hunts Point->Riverdale	3
+Hunts Point->Tremont	21
+Hunts Point->Utopia	1
+Hunts Point->Yorkville	32
+Inwood->Auburndale	1
+Inwood->Battery Park	29
+Inwood->Carnegie Hill	35
+Inwood->Central Park	36
+Inwood->Clinton	210
+Inwood->Country Club	8
+Inwood->East Brooklyn	3
+Inwood->Financial District	34
+Inwood->Fordham	124
+Inwood->Garment District	118
+Inwood->Hamilton Heights	404
+Inwood->Hunts Point	13
+Inwood->Inwood	1758
+Inwood->Jamaica	6
+Inwood->Middle Village	3
+Inwood->Morris Park	33
+Inwood->Murray Hill	56
+Inwood->Parkchester	34
+Inwood->South Bronx	88
+Inwood->Sunny Side	21
+Inwood->Tribeca	70
+Inwood->Williamsburg	23
+Inwood->Woodside	17
+Jackson Heights->Auburndale	151
+Jackson Heights->Bedford Park	66
+Jackson Heights->Bensonhurst	26
+Jackson Heights->Brownsville	47
+Jackson Heights->Carnegie Hill	232
+Jackson Heights->Chinatown	150
+Jackson Heights->Clinton	1428
+Jackson Heights->Cobble Hill	79
+Jackson Heights->Dyker Heights	11
+Jackson Heights->East Brooklyn	106
+Jackson Heights->East Village	839
+Jackson Heights->Fordham	55
+Jackson Heights->Harlem	976
+Jackson Heights->Mapleton-Flatlands	106
+Jackson Heights->Nkew Gardens	652
+Jackson Heights->Spuyten Duyvil	21
+Jackson Heights->Sunny Side	4911
+Jackson Heights->Tribeca	379
+Jackson Heights->Upper West Side	2354
+Jackson Heights->Utopia	498
+Jackson Heights->Washington Heights	735
+Jackson Heights->West Village	467
+Jamaica->Astoria-Long Island City	127
+Jamaica->Battery Park	318
+Jamaica->Bay Ridge	9
+Jamaica->Boerum Hill	11
+Jamaica->Brownsville	7
+Jamaica->Central Park	462
+Jamaica->Clearview	10
+Jamaica->Country Club	2
+Jamaica->Fort Green	45
+Jamaica->Hamilton Heights	135
+Jamaica->Harlem	366
+Jamaica->High Bridge	8
+Jamaica->Kings Bridge	4
+Jamaica->Laurelton	44
+Jamaica->Middle Village	14
+Jamaica->Midtown	7809
+Jamaica->North Sutton Area	192
+Jamaica->Park Slope	28
+Jamaica->Saintalbans	95
+Jamaica->Springfield Gardens	130
+Jamaica->Sunset Park	3
+Jamaica->The Rockaways	11
+Jamaica->Utopia	372
+Kings Bridge->Corona	1
+Kings Bridge->East Harlem	14
+Kings Bridge->Fort Green	1
+Kings Bridge->Hunts Point	4
+Kings Bridge->Little Italy	3
+Kings Bridge->Maspeth	1
+Kings Bridge->Morningside Heights	20
+Kings Bridge->Morris Park	17
+Kings Bridge->Park Slope	1
+Kings Bridge->Parkchester	16
+Kings Bridge->Riverdale	165
+Kings Bridge->Soho	2
+Kings Bridge->South Bronx	42
+Kings Bridge->Spuyten Duyvil	124
+Kings Bridge->Upper West Side	77
+Kings Bridge->Woodside	3
+Laurelton->Auburndale	2
+Laurelton->Battery Park	3
+Laurelton->Bay Ridge	3
+Laurelton->Bensonhurst	2
+Laurelton->Cobble Hill	1
+Laurelton->Douglastown-Little Neck	10
+Laurelton->Forest Hills	4
+Laurelton->Gramercy	20
+Laurelton->Greenwich Village	9
+Laurelton->Laurelton	484
+Laurelton->Maspeth	2
+Laurelton->Murray Hill	10
+Laurelton->Sunny Side	4
+Laurelton->Upper East Side	28
+Laurelton->Williamsburg	1
+Little Italy->Battery Park	18490
+Little Italy->Baychester	13
+Little Italy->Carnegie Hill	4594
+Little Italy->Central Park	7151
+Little Italy->City Island	3
+Little Italy->Country Club	20
+Little Italy->Downtown	6072
+Little Italy->Dyker Heights	195
+Little Italy->East Harlem	2496
+Little Italy->Gramercy	144552
+Little Italy->Hunts Point	28
+Little Italy->Inwood	442
+Little Italy->Kings Bridge	98
+Little Italy->Lower East Side	76467
+Little Italy->Midtown	162131
+Little Italy->Parkchester	141
+Little Italy->Queens Village	17
+Little Italy->South Bronx	361
+Little Italy->Union Port	58
+Little Italy->Woodhaven-Richmond Hill	145
+Lower East Side->Battery Park	37365
+Lower East Side->Bedford-Stuyvesant	47958
+Lower East Side->Canarsie	965
+Lower East Side->Carroll Gardens	16747
+Lower East Side->Central Park	14735
+Lower East Side->Chinatown	36084
+Lower East Side->City Island	31
+Lower East Side->East Harlem	10281
+Lower East Side->Flatbush	54
+Lower East Side->Forest Hills	5355
+Lower East Side->Fort Green	74783
+Lower East Side->Hunts Point	269
+Lower East Side->Jackson Heights	8069
+Lower East Side->Morris Park	489
+Lower East Side->Parkchester	656
+Lower East Side->Queensboro Hill	511
+Lower East Side->South Bronx	1661
+Lower East Side->Williams Bridge	215
+Lower East Side->Williamsburg	161703
+Mapleton-Flatlands->Auburndale	2
+Mapleton-Flatlands->Downtown	103
+Mapleton-Flatlands->Financial District	248
+Mapleton-Flatlands->Fort Green	345
+Mapleton-Flatlands->Little Italy	30
+Mapleton-Flatlands->Midtown	387
+Mapleton-Flatlands->Park Slope	473
+Mapleton-Flatlands->Soundview	2
+Mapleton-Flatlands->University Heights	9
+Maspeth->Carroll Gardens	23
+Maspeth->Clearview	4
+Maspeth->Cobble Hill	3
+Maspeth->Corona	1
+Maspeth->Garment District	438
+Maspeth->Gravesend-Sheepshead Bay	10
+Maspeth->Greenwood	6
+Maspeth->Jackson Heights	300
+Maspeth->Mapleton-Flatlands	3
+Maspeth->Morris Heights	2
+Maspeth->Murray Hill	482
+Maspeth->Nkew Gardens	75
+Maspeth->Queensboro Hill	12
+Maspeth->Ridgewood	287
+Maspeth->Throggs Neck	1
+Maspeth->Tremont	3
+Maspeth->Washington Heights	10
+Maspeth->West Village	178
+Maspeth->Williams Bridge	2
+Maspeth->Woodside	545
+Maspeth->Yorkville	13
+Middle Village->Chinatown	1
+Middle Village->Clinton	14
+Middle Village->Downtown	2
+Middle Village->Financial District	7
+Middle Village->Garment District	18
+Middle Village->Greenwich Village	13
+Middle Village->Hamilton Heights	1
+Middle Village->Harlem	2
+Middle Village->Little Italy	3
+Middle Village->Lower East Side	32
+Middle Village->Murray Hill	30
+Middle Village->Sunny Side	105
+Middle Village->Tribeca	52
+Middle Village->Utopia	40
+Midtown->Bay Ridge	13983
+Midtown->Baychester	678
+Midtown->Bedford Park	4984
+Midtown->Bedford-Stuyvesant	30152
+Midtown->Downtown	38546
+Midtown->East Village	560361
+Midtown->Gramercy	2245875
+Midtown->Hunts Point	1533
+Midtown->Jackson Heights	46950
+Midtown->Laurelton	829
+Midtown->Lower East Side	299258
+Midtown->Maspeth	10636
+Midtown->Morris Park	3531
+Midtown->Murray Hill	1047341
+Midtown->Nkew Gardens	13017
+Midtown->Parkchester	5172
+Midtown->Queens Village	858
+Midtown->Queensboro Hill	3337
+Midtown->Soho	442568
+Midtown->South Bronx	10987
+Midtown->Union Port	1988
+Midtown->West Village	476130
+Midtown->Williams Bridge	1795
+Morningside Heights->Battery Park	2662
+Morningside Heights->Brownsville	34
+Morningside Heights->Chinatown	1043
+Morningside Heights->Flushing	414
+Morningside Heights->Forest Hills	506
+Morningside Heights->Fort Green	1171
+Morningside Heights->Glendale	30
+Morningside Heights->Jamaica	136
+Morningside Heights->Mapleton-Flatlands	144
+Morningside Heights->Middle Village	37
+Morningside Heights->Park Slope	927
+Morningside Heights->Saintalbans	7
+Morningside Heights->Steinway	1
+Morningside Heights->Tremont	457
+Morningside Heights->Upper West Side	345309
+Morningside Heights->Wakefield-Williamsbridge	138
+Morningside Heights->Williamsburg	1223
+Morningside Heights->Woodhaven-Richmond Hill	54
+Morris Heights->Downtown	2
+Morris Heights->Fort Green	3
+Morris Heights->Gravesend-Sheepshead Bay	1
+Morris Heights->Jamaica	2
+Morris Heights->Morningside Heights	30
+Morris Heights->Park Slope	2
+Morris Heights->Tremont	160
+Morris Heights->University Heights	90
+Morris Heights->Yorkville	27
+Morris Park->Bedford Park	44
+Morris Park->East Village	8
+Morris Park->Morningside Heights	4
+Morris Park->North Sutton Area	4
+Morris Park->Tremont	76
+Morris Park->Union Port	26
+Morris Park->Woodhaven-Richmond Hill	1
+Mott Haven->Bay Ridge	6
+Mott Haven->Bedford Park	140
+Mott Haven->Boerum Hill	11
+Mott Haven->Clearview	1
+Mott Haven->East Village	293
+Mott Haven->Financial District	121
+Mott Haven->Flushing	30
+Mott Haven->Fordham	163
+Mott Haven->Garment District	408
+Mott Haven->Glendale	3
+Mott Haven->Hamilton Heights	853
+Mott Haven->High Bridge	638
+Mott Haven->Jamaica	12
+Mott Haven->Laurelton	1
+Mott Haven->Nkew Gardens	14
+Mott Haven->Queens Village	2
+Mott Haven->Saintalbans	4
+Mott Haven->Steinway	3
+Mott Haven->Sunset Park	15
+Mott Haven->Tribeca	64
+Mott Haven->University Heights	145
+Mott Haven->Upper East Side	2030
+Mott Haven->Wakefield-Williamsbridge	90
+Mott Haven->West Village	116
+Mott Haven->Woodhaven-Richmond Hill	10
+Murray Hill->Canarsie	514
+Murray Hill->Chelsea	341760
+Murray Hill->Chinatown	14123
+Murray Hill->Flatbush	19
+Murray Hill->Inwood	2001
+Murray Hill->Jackson Heights	7445
+Murray Hill->Lower East Side	103802
+Murray Hill->Morris Heights	294
+Murray Hill->Union Port	416
+Murray Hill->Wakefield-Williamsbridge	325
+Murray Hill->Williams Bridge	275
+Murray Hill->Woodhaven-Richmond Hill	1165
+Nkew Gardens->Bedford Park	10
+Nkew Gardens->Bedford-Stuyvesant	46
+Nkew Gardens->Carnegie Hill	30
+Nkew Gardens->East Brooklyn	44
+Nkew Gardens->East Village	117
+Nkew Gardens->Inwood	8
+Nkew Gardens->Jamaica	610
+Nkew Gardens->Morris Heights	1
+Nkew Gardens->North Sutton Area	48
+Nkew Gardens->Riverdale	2
+Nkew Gardens->Springfield Gardens	55
+Nkew Gardens->Tremont	23
+Nkew Gardens->Upper East Side	488
+North Sutton Area->Astoria-Long Island City	17964
+North Sutton Area->Bay Ridge	928
+North Sutton Area->Borough Park	439
+North Sutton Area->Brownsville	79
+North Sutton Area->Bushwick	754
+North Sutton Area->Clearview	59
+North Sutton Area->Cobble Hill	649
+North Sutton Area->Corona	5
+North Sutton Area->Greenwood	296
+North Sutton Area->Laurelton	32
+North Sutton Area->Maspeth	849
+North Sutton Area->Nkew Gardens	806
+North Sutton Area->Ridgewood	872
+North Sutton Area->Soho	20314
+North Sutton Area->Spuyten Duyvil	236
+North Sutton Area->The Rockaways	47
+North Sutton Area->Throggs Neck	297
+North Sutton Area->Union Port	157
+North Sutton Area->West Village	17914
+North Sutton Area->Woodside	2428
+North Sutton Area->Yorkville	14013
+Park Slope->Auburndale	8
+Park Slope->Boerum Hill	8021
+Park Slope->Clinton	1136
+Park Slope->Douglastown-Little Neck	16
+Park Slope->Flushing	49
+Park Slope->Fordham	9
+Park Slope->High Bridge	27
+Park Slope->Jamaica	40
+Park Slope->Middle Village	36
+Park Slope->Park Slope	36331
+Park Slope->Soundview	5
+Park Slope->The Rockaways	34
+Park Slope->Tribeca	1580
+Park Slope->Upper West Side	2224
+Park Slope->Washington Heights	223
+Parkchester->Chinatown	2
+Parkchester->City Island	4
+Parkchester->East Village	6
+Parkchester->Glendale	1
+Parkchester->Hunts Point	19
+Parkchester->Jackson Heights	11
+Parkchester->Mapleton-Flatlands	1
+Parkchester->Middle Village	1
+Parkchester->Morningside Heights	8
+Parkchester->Morris Park	122
+Parkchester->North Sutton Area	5
+Parkchester->Parkchester	3703
+Parkchester->Queensboro Hill	1
+Parkchester->South Bronx	92
+Parkchester->University Heights	7
+Parkchester->Williams Bridge	36
+Queens Village->Auburndale	3
+Queens Village->Clearview	1
+Queens Village->Downtown	5
+Queens Village->Laurelton	40
+Queens Village->Little Italy	1
+Queens Village->Murray Hill	4
+Queens Village->Ridgewood	1
+Queens Village->Soho	4
+Queens Village->Sunny Side	15
+Queens Village->Tremont	1
+Queens Village->Wakefield-Williamsbridge	1
+Queens Village->Washington Heights	3
+Queens Village->Woodhaven-Richmond Hill	9
+Queensboro Hill->Clinton	2
+Queensboro Hill->East Village	9
+Queensboro Hill->Financial District	2
+Queensboro Hill->Fort Green	8
+Queensboro Hill->Murray Hill	11
+Queensboro Hill->Park Slope	2
+Queensboro Hill->Soho	3
+Queensboro Hill->Springfield Gardens	3
+Queensboro Hill->The Rockaways	1
+Queensboro Hill->Tribeca	1
+Queensboro Hill->Upper West Side	10
+Queensboro Hill->Yorkville	6
+Ridgewood->Bay Ridge	7
+Ridgewood->Carroll Gardens	13
+Ridgewood->Central Park	4
+Ridgewood->Chelsea	46
+Ridgewood->Garment District	47
+Ridgewood->Gravesend-Sheepshead Bay	9
+Ridgewood->Hamilton Heights	5
+Ridgewood->Inwood	2
+Ridgewood->Jackson Heights	103
+Ridgewood->Kings Bridge	1
+Ridgewood->Laurelton	1
+Ridgewood->Queensboro Hill	5
+Ridgewood->The Rockaways	4
+Ridgewood->Woodlawn-Nordwood	1
+Riverdale->Astoria-Long Island City	11
+Riverdale->Baychester	1
+Riverdale->Carnegie Hill	4
+Riverdale->Chelsea	21
+Riverdale->Financial District	5
+Riverdale->Gramercy	13
+Riverdale->Hunts Point	1
+Riverdale->Inwood	79
+Riverdale->Little Italy	1
+Riverdale->Morris Park	7
+Riverdale->Murray Hill	4
+Riverdale->South Bronx	8
+Riverdale->University Heights	19
+Saintalbans->Canarsie	5
+Saintalbans->East Harlem	2
+Saintalbans->Jackson Heights	3
+Saintalbans->Jamaica	76
+Saintalbans->Mott Haven	1
+Saintalbans->Soho	3
+Saintalbans->The Rockaways	1
+Saintalbans->Williams Bridge	1
+Saintalbans->Woodhaven-Richmond Hill	5
+Saintalbans->Woodside	1
+Soho->Bedford-Stuyvesant	16942
+Soho->Bensonhurst	907
+Soho->Chinatown	21328
+Soho->Cobble Hill	6614
+Soho->Corona	11
+Soho->Downtown	14530
+Soho->Fort Green	44719
+Soho->Jamaica	548
+Soho->Little Italy	55473
+Soho->Murray Hill	108462
+Soho->Park Slope	28224
+Soho->Soundview	422
+Soho->Tremont	235
+Soho->Upper West Side	115587
+Soho->Wakefield-Williamsbridge	151
+Soho->Woodhaven-Richmond Hill	414
+Soho->Woodlawn-Nordwood	109
+Soundview->Carnegie Hill	3
+Soundview->Downtown	2
+Soundview->Gramercy	25
+Soundview->Harlem	52
+Soundview->Hunts Point	63
+Soundview->Laurelton	1
+Soundview->Morris Heights	35
+Soundview->Morris Park	47
+Soundview->Mott Haven	63
+Soundview->Murray Hill	14
+Soundview->Nkew Gardens	1
+Soundview->North Sutton Area	3
+Soundview->Parkchester	79
+Soundview->South Bronx	120
+Soundview->Throggs Neck	30
+Soundview->Washington Heights	21
+Soundview->West Village	10
+Soundview->Woodlawn-Nordwood	2
+South Bronx->Battery Park	4
+South Bronx->Bedford-Stuyvesant	7
+South Bronx->Brownsville	5
+South Bronx->Carnegie Hill	19
+South Bronx->Central Park	59
+South Bronx->Chelsea	88
+South Bronx->Dyker Heights	1
+South Bronx->Flushing	4
+South Bronx->Forest Hills	6
+South Bronx->Glendale	3
+South Bronx->Gravesend-Sheepshead Bay	1
+South Bronx->North Sutton Area	18
+South Bronx->Saintalbans	1
+South Bronx->Soho	20
+South Bronx->Soundview	175
+South Bronx->Spuyten Duyvil	2
+South Bronx->Union Port	66
+South Bronx->Upper West Side	229
+South Bronx->Williamsburg	8
+Springfield Gardens->Astoria-Long Island City	16
+Springfield Gardens->Borough Park	14
+Springfield Gardens->Bushwick	9
+Springfield Gardens->Central Park	36
+Springfield Gardens->Chelsea	147
+Springfield Gardens->Country Club	3
+Springfield Gardens->East Brooklyn	26
+Springfield Gardens->East Harlem	12
+Springfield Gardens->Financial District	140
+Springfield Gardens->Fort Green	29
+Springfield Gardens->Jackson Heights	9
+Springfield Gardens->Lower East Side	60
+Springfield Gardens->North Sutton Area	21
+Springfield Gardens->Park Slope	37
+Springfield Gardens->Queensboro Hill	4
+Springfield Gardens->Spuyten Duyvil	1
+Springfield Gardens->University Heights	1
+Springfield Gardens->Woodside	11
+Spuyten Duyvil->Carroll Gardens	2
+Spuyten Duyvil->Harlem	14
+Spuyten Duyvil->Soundview	4
+Spuyten Duyvil->Spuyten Duyvil	197
+Spuyten Duyvil->Throggs Neck	1
+Spuyten Duyvil->Union Port	1
+Spuyten Duyvil->West Village	4
+Spuyten Duyvil->Woodlawn-Nordwood	3
+Steinway->Forest Hills	1
+Steinway->Hunts Point	1
+Steinway->Mott Haven	3
+Steinway->North Sutton Area	1
+Steinway->South Bronx	1
+Steinway->Tribeca	1
+Steinway->Upper West Side	7
+Steinway->Woodside	3
+Sunny Side->Astoria-Long Island City	59917
+Sunny Side->Battery Park	1381
+Sunny Side->Chinatown	796
+Sunny Side->Corona	16
+Sunny Side->Forest Hills	4249
+Sunny Side->Fort Green	4230
+Sunny Side->Midtown	53605
+Sunny Side->Morningside Heights	1029
+Sunny Side->Morris Heights	79
+Sunny Side->Park Slope	2049
+Sunny Side->Upper West Side	12608
+Sunny Side->Williamsburg	9531
+Sunny Side->Woodlawn-Nordwood	109
+Sunset Park->Battery Park	50
+Sunset Park->Bensonhurst	108
+Sunset Park->Carnegie Hill	6
+Sunset Park->Carroll Gardens	309
+Sunset Park->Dyker Heights	96
+Sunset Park->East Brooklyn	13
+Sunset Park->Financial District	88
+Sunset Park->Flushing	12
+Sunset Park->Fordham	3
+Sunset Park->Forest Hills	14
+Sunset Park->Fort Green	303
+Sunset Park->Glendale	3
+Sunset Park->Greenwood	402
+Sunset Park->Jackson Heights	27
+Sunset Park->Jamaica	3
+Sunset Park->Morris Park	1
+Sunset Park->Murray Hill	84
+Sunset Park->Park Slope	457
+Sunset Park->Queensboro Hill	2
+Sunset Park->Ridgewood	16
+Sunset Park->Tribeca	49
+Sunset Park->Williams Bridge	2
+Sunset Park->Williamsburg	195
+Sunset Park->Yorkville	13
+The Rockaways->Bedford-Stuyvesant	4
+The Rockaways->East Village	1
+The Rockaways->Inwood	1
+The Rockaways->Jamaica	2
+The Rockaways->Nkew Gardens	2
+The Rockaways->Riverdale	1
+The Rockaways->Springfield Gardens	6
+The Rockaways->Upper West Side	2
+Throggs Neck->Bay Ridge	1
+Throggs Neck->Chelsea	3
+Throggs Neck->Flushing	3
+Throggs Neck->Forest Hills	2
+Throggs Neck->Fort Green	1
+Throggs Neck->Hunts Point	5
+Throggs Neck->Inwood	1
+Throggs Neck->Jackson Heights	1
+Throggs Neck->Mapleton-Flatlands	1
+Throggs Neck->Morris Park	11
+Throggs Neck->Murray Hill	3
+Throggs Neck->Parkchester	39
+Throggs Neck->Queensboro Hill	2
+Throggs Neck->Soho	3
+Throggs Neck->South Bronx	17
+Throggs Neck->Steinway	1
+Throggs Neck->University Heights	2
+Throggs Neck->Williams Bridge	10
+Throggs Neck->Williamsburg	1
+Throggs Neck->Woodlawn-Nordwood	1
+Tremont->Astoria-Long Island City	16
+Tremont->Bushwick	1
+Tremont->Forest Hills	2
+Tremont->Jamaica	1
+Tremont->Little Italy	4
+Tremont->Morris Heights	85
+Tremont->North Sutton Area	3
+Tremont->Sunny Side	5
+Tremont->Tremont	1282
+Tremont->Woodside	1
+Tremont->Yorkville	26
+Tribeca->Boerum Hill	8515
+Tribeca->Borough Park	2678
+Tribeca->Brownsville	436
+Tribeca->Central Park	11923
+Tribeca->Country Club	121
+Tribeca->Douglastown-Little Neck	156
+Tribeca->Downtown	15903
+Tribeca->Gramercy	177923
+Tribeca->Gravesend-Sheepshead Bay	1850
+Tribeca->High Bridge	472
+Tribeca->Inwood	1145
+Tribeca->Kings Bridge	319
+Tribeca->Mapleton-Flatlands	2502
+Tribeca->Midtown	329902
+Tribeca->Mott Haven	614
+Tribeca->Queens Village	80
+Tribeca->Riverdale	488
+Tribeca->Saintalbans	68
+Tribeca->Springfield Gardens	79
+Tribeca->Sunset Park	2324
+Tribeca->The Rockaways	112
+Tribeca->Upper East Side	117032
+Tribeca->Washington Heights	7232
+Union Port->Baychester	2
+Union Port->Brownsville	2
+Union Port->Chinatown	3
+Union Port->Cobble Hill	1
+Union Port->Flushing	1
+Union Port->Little Italy	4
+Union Port->Midtown	98
+Union Port->Upper West Side	39
+Union Port->Washington Heights	40
+University Heights->Canarsie	1
+University Heights->Douglastown-Little Neck	1
+University Heights->Forest Hills	14
+University Heights->Fort Green	3
+University Heights->Morris Heights	99
+University Heights->Tremont	66
+University Heights->Williamsburg	1
+Upper East Side->Auburndale	798
+Upper East Side->Bay Ridge	5574
+Upper East Side->Bensonhurst	1429
+Upper East Side->Borough Park	4066
+Upper East Side->Brownsville	732
+Upper East Side->Bushwick	5447
+Upper East Side->Clearview	698
+Upper East Side->Cobble Hill	5823
+Upper East Side->Financial District	228960
+Upper East Side->Fordham	3039
+Upper East Side->Gramercy	1118823
+Upper East Side->Greenwich Village	355518
+Upper East Side->Jamaica	2858
+Upper East Side->Laurelton	223
+Upper East Side->Morris Heights	2648
+Upper East Side->Nkew Gardens	5233
+Upper East Side->Spuyten Duyvil	2855
+Upper East Side->Sunny Side	76121
+Upper East Side->Throggs Neck	1821
+Upper East Side->Tribeca	112647
+Upper East Side->University Heights	2743
+Upper East Side->Upper East Side	6937907
+Upper East Side->West Village	173296
+Upper East Side->Woodside	20681
+Upper West Side->Astoria-Long Island City	44428
+Upper West Side->Baychester	221
+Upper West Side->Carnegie Hill	279357
+Upper West Side->Chinatown	8984
+Upper West Side->Corona	42
+Upper West Side->Douglastown-Little Neck	334
+Upper West Side->Downtown	6453
+Upper West Side->Dyker Heights	334
+Upper West Side->East Brooklyn	287
+Upper West Side->Forest Hills	6712
+Upper West Side->Little Italy	21276
+Upper West Side->Maspeth	1288
+Upper West Side->North Sutton Area	71347
+Upper West Side->Springfield Gardens	210
+Upper West Side->Spuyten Duyvil	6498
+Upper West Side->Woodlawn-Nordwood	773
+Utopia->Boerum Hill	4
+Utopia->Carnegie Hill	29
+Utopia->Clearview	7
+Utopia->East Brooklyn	20
+Utopia->Flushing	136
+Utopia->Forest Hills	337
+Utopia->Greenwood	4
+Utopia->High Bridge	4
+Utopia->Jamaica	723
+Utopia->Laurelton	14
+Utopia->Little Italy	37
+Utopia->Mapleton-Flatlands	10
+Utopia->North Sutton Area	55
+Utopia->Queens Village	45
+Utopia->Ridgewood	10
+Utopia->Saintalbans	54
+Utopia->Soho	100
+Utopia->Springfield Gardens	42
+Utopia->Sunset Park	54
+Utopia->Tremont	3
+Utopia->Union Port	2
+Utopia->Upper West Side	389
+Utopia->Yorkville	63
+Wakefield-Williamsbridge->Baychester	18
+Wakefield-Williamsbridge->Carnegie Hill	1
+Wakefield-Williamsbridge->Clinton	6
+Wakefield-Williamsbridge->Fordham	16
+Wakefield-Williamsbridge->Jamaica	1
+Wakefield-Williamsbridge->Tribeca	1
+Wakefield-Williamsbridge->Union Port	3
+Wakefield-Williamsbridge->Woodlawn-Nordwood	24
+Washington Heights->Auburndale	24
+Washington Heights->Bensonhurst	20
+Washington Heights->Borough Park	68
+Washington Heights->Central Park	1441
+Washington Heights->Cobble Hill	27
+Washington Heights->Country Club	59
+Washington Heights->Flushing	100
+Washington Heights->Glendale	31
+Washington Heights->Hamilton Heights	16490
+Washington Heights->Harlem	12459
+Washington Heights->Kings Bridge	842
+Washington Heights->Maspeth	42
+Washington Heights->Murray Hill	1746
+Washington Heights->Queens Village	14
+Washington Heights->Riverdale	907
+Washington Heights->Soho	1209
+Washington Heights->Sunny Side	513
+Washington Heights->The Rockaways	3
+Washington Heights->Upper West Side	27235
+Washington Heights->Utopia	122
+Washington Heights->Wakefield-Williamsbridge	111
+Washington Heights->Woodlawn-Nordwood	69
+West Village->Bay Ridge	4139
+West Village->Baychester	54
+West Village->Bensonhurst	1150
+West Village->Cobble Hill	4535
+West Village->Douglastown-Little Neck	181
+West Village->Dyker Heights	752
+West Village->Gravesend-Sheepshead Bay	2201
+West Village->Laurelton	38
+West Village->Maspeth	639
+West Village->Morris Heights	309
+West Village->Springfield Gardens	90
+West Village->Upper East Side	202457
+West Village->Utopia	669
+West Village->Woodside	2789
+Williams Bridge->Battery Park	1
+Williams Bridge->Central Park	1
+Williams Bridge->Country Club	23
+Williams Bridge->East Brooklyn	1
+Williams Bridge->Flushing	1
+Williams Bridge->Gravesend-Sheepshead Bay	1
+Williams Bridge->Inwood	8
+Williams Bridge->Midtown	9
+Williams Bridge->Upper East Side	15
+Williams Bridge->Washington Heights	15
+Williams Bridge->Williamsburg	1
+Williamsburg->Astoria-Long Island City	11785
+Williamsburg->Bedford Park	100
+Williamsburg->East Village	43485
+Williamsburg->Gravesend-Sheepshead Bay	759
+Williamsburg->Greenwich Village	23216
+Williamsburg->Inwood	231
+Williamsburg->Lower East Side	65097
+Williamsburg->Morningside Heights	1254
+Williamsburg->Riverdale	54
+Williamsburg->Sunny Side	10058
+Woodhaven-Richmond Hill->Bedford Park	2
+Woodhaven-Richmond Hill->Boerum Hill	3
+Woodhaven-Richmond Hill->Brownsville	16
+Woodhaven-Richmond Hill->Carroll Gardens	1
+Woodhaven-Richmond Hill->Douglastown-Little Neck	21
+Woodhaven-Richmond Hill->East Village	32
+Woodhaven-Richmond Hill->Flushing	45
+Woodhaven-Richmond Hill->Garment District	76
+Woodhaven-Richmond Hill->Gravesend-Sheepshead Bay	4
+Woodhaven-Richmond Hill->Greenwood	5
+Woodhaven-Richmond Hill->Hamilton Heights	8
+Woodhaven-Richmond Hill->Inwood	2
+Woodhaven-Richmond Hill->Jackson Heights	100
+Woodhaven-Richmond Hill->Midtown	234
+Woodhaven-Richmond Hill->Morris Heights	1
+Woodhaven-Richmond Hill->Mott Haven	5
+Woodhaven-Richmond Hill->Nkew Gardens	341
+Woodhaven-Richmond Hill->Queensboro Hill	5
+Woodhaven-Richmond Hill->Ridgewood	27
+Woodhaven-Richmond Hill->Riverdale	1
+Woodhaven-Richmond Hill->Saintalbans	20
+Woodhaven-Richmond Hill->Sunset Park	5
+Woodhaven-Richmond Hill->University Heights	4
+Woodhaven-Richmond Hill->West Village	18
+Woodhaven-Richmond Hill->Williams Bridge	1
+Woodhaven-Richmond Hill->Yorkville	10
+Woodlawn-Nordwood->Bedford Park	48
+Woodlawn-Nordwood->Bedford-Stuyvesant	1
+Woodlawn-Nordwood->Clinton	6
+Woodlawn-Nordwood->East Village	7
+Woodlawn-Nordwood->Fordham	8
+Woodlawn-Nordwood->Fort Green	1
+Woodlawn-Nordwood->Garment District	4
+Woodlawn-Nordwood->Gramercy	7
+Woodlawn-Nordwood->Harlem	9
+Woodlawn-Nordwood->Parkchester	4
+Woodlawn-Nordwood->Soundview	1
+Woodlawn-Nordwood->South Bronx	7
+Woodlawn-Nordwood->Tribeca	1
+Woodlawn-Nordwood->Upper West Side	4
+Woodlawn-Nordwood->West Village	1
+Woodside->Bensonhurst	18
+Woodside->Bushwick	374
+Woodside->Chinatown	189
+Woodside->Cobble Hill	47
+Woodside->Financial District	1492
+Woodside->Garment District	2628
+Woodside->Greenwich Village	1131
+Woodside->Hamilton Heights	246
+Woodside->Harlem	448
+Woodside->Jackson Heights	7557
+Woodside->Jamaica	224
+Woodside->Little Italy	219
+Woodside->Lower East Side	1008
+Woodside->Morningside Heights	159
+Woodside->Murray Hill	2536
+Woodside->Queensboro Hill	187
+Woodside->Spuyten Duyvil	6
+Woodside->Tremont	41
+Woodside->Union Port	13
+Woodside->Utopia	263
+Woodside->Williams Bridge	5
+Woodside->Woodside	31611
+Yorkville->Borough Park	487
+Yorkville->City Island	9
+Yorkville->Corona	9
+Yorkville->Country Club	140
+Yorkville->East Harlem	73855
+Yorkville->Flushing	493
+Yorkville->Glendale	63
+Yorkville->Kings Bridge	578
+Yorkville->Midtown	135126
+Yorkville->Morningside Heights	20228
+Yorkville->Soho	6466
+Yorkville->Spuyten Duyvil	364
+Yorkville->Steinway	1
+Yorkville->The Rockaways	32
+Yorkville->Throggs Neck	177
+Yorkville->Upper East Side	353215
+Yorkville->Woodlawn-Nordwood	257

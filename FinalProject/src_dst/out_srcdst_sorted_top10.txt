@@ -1,0 +1,10 @@
+Upper East Side->Upper East Side	6937907
+Midtown->Midtown	5604684
+Upper East Side->Midtown	4124925
+Upper West Side->Upper West Side	4026636
+Midtown->Upper East Side	3815967
+Garment District->Midtown	2370002
+Midtown->Gramercy	2245875
+Upper West Side->Midtown	2232349
+Midtown->Upper West Side	2219121
+Gramercy->Midtown	2187740
